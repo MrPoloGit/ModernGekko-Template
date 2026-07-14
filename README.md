@@ -1,4 +1,4 @@
-# GCWIIRecomp-template
+# ModernGekko-Template
 
 A template for building a static-recompilation pipeline for GameCube and Wii games, built on:
 
